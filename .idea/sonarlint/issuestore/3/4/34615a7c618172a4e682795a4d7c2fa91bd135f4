@@ -1,0 +1,10 @@
+
+P
+java:S1854":Remove this useless assignment to local variable "myConn".(„Îú°
+E
+java:S1197"*Move the array designators [] to the type.(º ìıÿÿÿÿ
+A
+java:S1481"+Remove this unused "myConn" local variable.(„Îú°
+N	java:S106"9Replace this use of System.out or System.err by a logger.(êñäÀ
+^
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(„Îú°
